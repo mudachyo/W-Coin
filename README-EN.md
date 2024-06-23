@@ -8,6 +8,8 @@
 - In order for W-Coin to open in a browser, install [этот скрипт](https://github.com/mudachyo/W-Coin/raw/main/w-coin-web.user.js)
 - Open [Bot W-Coin](https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dwcoin_tapbot%26start%3DMjQ3NTUyNg%253D%253D) and run the game
 
+![Result](image.png)
+
 ---
 > [!TIP]
 > Другие репозитории:
