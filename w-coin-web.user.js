@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         W-Coin web
-// @version      1.0
+// @version      1.1
 // @match        *://alohomora-bucket-fra1-prod-frontend-static.fra1.cdn.digitaloceanspaces.com/*
 // @icon         https://img.cryptorank.io/coins/w_coin1718038816897.png
 // @run-at       document-start
 // @grant        none
-// @downloadURL  https://github.com/mudachyo/W-Coim/raw/main/w-coin-web.user.js
-// @updateURL    https://github.com/mudachyo/W-Coim/raw/main/w-coin-web.user.js
-// @homepage     https://github.com/mudachyo/W-Coim
+// @downloadURL  https://github.com/mudachyo/W-Coin/raw/main/w-coin-web.user.js
+// @updateURL    https://github.com/mudachyo/W-Coin/raw/main/w-coin-web.user.js
+// @homepage     https://github.com/mudachyo/W-Coin/
 // ==/UserScript==
 
 (function() {
