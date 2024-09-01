@@ -6,6 +6,7 @@
 ## Как запустить  
 - Установить в свой браузер расширение [Violentmonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be)
 - Для того, чтобы W-Coin открывался в браузере установите [этот скрипт](https://github.com/mudachyo/W-Coin/raw/main/w-coin-web.user.js)
+- Для установки **автокликера** установите [этот скрипт](https://github.com/mudachyo/W-Coin/raw/main/w-coin-autoclick.user.js)
 - Открыть [Бота W-Coin](https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dwcoin_tapbot%26start%3DMjQ3NTUyNg%253D%253D) и запустить игру
 
 ![Результат](image.png)
@@ -30,9 +31,13 @@
 >
 > - [Сrossfi + Autoclicker](https://github.com/mudachyo/Crossfi)
 >
-> - [BUMP](https://github.com/mudachyo/BUMP)
+> - [BUMP + Autoclicker](https://github.com/mudachyo/BUMP)
 >
-> - [W-Coin](https://github.com/mudachyo/W-Coin)
+> - [W-Coin + Autoclicker](https://github.com/mudachyo/W-Coin)
+>
+> - [1win + Autoclicker](https://github.com/mudachyo/1win-Token)
+>
+> - [Not Pixel + Autoclicker](https://github.com/mudachyo/Not-Pixel)
 ---
 > [!IMPORTANT] 
 > Пожертвование
