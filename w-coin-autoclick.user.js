@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         W-Coin Autoclicker
-// @version      1.0
+// @version      2.0
 // @match        *://alohomora-bucket-fra1-prod-frontend-static.fra1.cdn.digitaloceanspaces.com/*
+// @match        *://*.app.w-coin.io/*
 // @icon         https://img.cryptorank.io/coins/w_coin1718038816897.png
 // @run-at       document-start
 // @downloadURL  https://github.com/mudachyo/W-Coin/raw/main/w-coin-autoclick.user.js
